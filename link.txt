@@ -1,2 +1,11 @@
 // for DSA
 https://a2zdsa.pages.dev/
+https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
+
+https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+
+https://takeuforward.org/data-structure/check-if-an-array-is-sorted/
+
+https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/
+
+https://takeuforward.org/data-structure/left-rotate-the-array-by-one/
